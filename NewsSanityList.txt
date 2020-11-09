@@ -27,3 +27,8 @@ dailymail.co.uk##.button-share-facebook
 telegraph.co.uk##.e-site-header-button--subscribe
 telegraph.co.uk##.e-social-share
 telegraph.co.uk##.site-footer__social
+
+# ——— The Sun ———
+thesun.co.uk##.dfp-ad
+thesun.co.uk##.footer-follow
+thesun.co.uk##.share__buttons
