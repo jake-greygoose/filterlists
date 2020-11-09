@@ -1,0 +1,28 @@
+[Adblock Plus 3.6]
+! Title: News Sanity List
+! Version: 09November2020v1-Alpha
+! Expires: 6 days
+! Description: I don't want to subscribe to or support your website. 
+! I don't want to share your articles or follow you on social media.
+
+# ——— The Guardian ———
+theguardian.com##.ad-slot
+theguardian.com##.new-header__cta-bar
+theguardian.com##.cta-barcta
+theguardian.com##.cta-bar__cta
+theguardian.com##.cta-bar__text
+theguardian.com##.cta-bartext
+theguardian.com##.contributions__adblock
+theguardian.com##.remote-banner.site-message--banner
+theguardian.com#?#.is-epic.block--content.block:-abp-contains(Support the Guardian from as little as £1)
+
+# ——— Sky News ———
+news.sky.com##.sdc-trust-project__link
+
+# ——— Daily Mail ———
+dailymail.co.uk##.mpu_puff_wrapper
+dailymail.co.uk##.button-share-facebook
+
+# ——— The Telegraph ———
+telegraph.co.uk##.e-site-header-button--subscribe
+telegraph.co.uk##.e-social-share
