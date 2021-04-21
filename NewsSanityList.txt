@@ -16,6 +16,7 @@ theguardian.com##.contributions__adblock
 theguardian.com##.remote-banner.site-message--banner
 theguardian.com#?#.is-epic.block--content.block:-abp-contains(Support the Guardian from as little as £1)
 theguardian.com###reader-revenue-links-footer
+theguardian.com###reader-revenue-links-header
 
 # ——— Sky News ———
 news.sky.com##.sdc-trust-project__link
